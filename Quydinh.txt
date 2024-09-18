@@ -1,0 +1,43 @@
+Thuế VAT: Tất cả các loại phòng đều chịu 8% thuế VAT trên tổng giá phòng
+
+Phòng tiêu chuẩn (Standard Room):
+Giá: 1,200,000 VND/đêm
+
+Phòng cao cấp (Deluxe Room):
+Giá: 2,000,000 VND/đêm
+
+Phòng gia đình (Family Room):
+Giá: 2,800,000 VND/đêm
+
+Phòng suite (Suite Room):
+Giá: 4,500,000 VND/đêm
+
+Giá dịch vụ:
+Dịch vụ ăn uống tại phòng:
+Bữa sáng: 200,000 VND/suất.
+Bữa trưa: 300,000 VND/suất.
+Bữa tối: 400,000 VND/suất.
+
+Dịch vụ đưa đón sân bay:
+Xe 4 chỗ: 500,000 VND/chuyến.
+Xe 7 chỗ: 700,000 VND/chuyến.
+Xe 16 chỗ: 1,000,000 VND/chuyến.
+
+Thuê xe đạp/xe máy:
+Thuê xe đạp: 100,000 VND/ngày.
+Thuê xe máy: 250,000 VND/ngày.
+
+
+Tính tiền: Tổng hóa đơn: tiền dịch vụ + tiền phòng + thuế
+Tiền thuế=0.8% * tổng hóa đơn
+
+Nếu thời gian trả phòng trễ so với đặt phòng bàn đầu thì tính thêm giá 1 ngày mới
+
+
+
+Chuyển phòng phụ thuộc vào phòng mới chuyển nếu phòng giá cao hơn ban đầu thì bù tiền và ngược lại
+Hủy phòng 
+
+
+
+
